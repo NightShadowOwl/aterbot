@@ -1,7 +1,7 @@
 {
 	"client": {
-		"host": "Please enter your server URL",
-		"port": "Please enter your server port",
+		"host": "ShadowGardenF2P.aternos.me",
+		"port": "61928",
 		"username": "Please enter the bot's username you want"
 	},
 	
